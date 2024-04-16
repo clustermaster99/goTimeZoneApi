@@ -1,4 +1,4 @@
-module github.com/clustermaster99/timeapi
+module github.com/clustermaster99/gotimeapi
 
 go 1.22.2
 
